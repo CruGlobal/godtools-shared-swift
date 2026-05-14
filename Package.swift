@@ -1,4 +1,4 @@
-// swift-tools-version: 5.9
+// swift-tools-version: 6.2
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
@@ -15,8 +15,8 @@ let package = Package(
   targets: [
       .binaryTarget(
         name: "GodToolsShared",
-        url: "https://cruglobal.jfrog.io/artifactory/swift-snapshots-local/CruGlobal/GodToolsShared/GodToolsShared-1.2.0.xcframework.zip",
-        checksum: "045017d7bb6a5fe0df253f6c2ec35d1db94277a87071a5b1d537947636f7c92a"
+        url: "https://cruglobal.jfrog.io/artifactory/swift-snapshots-local/CruGlobal/GodToolsShared/GodToolsShared-1.4.0-SNAPSHOT.25877212825.xcframework.zip",
+        checksum: "f27b50a94219d8731b0272061295496369ff05a8a71581f478eefb644fb327a2"
       )
   ]
 )
