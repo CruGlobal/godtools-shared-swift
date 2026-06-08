@@ -15,8 +15,8 @@ let package = Package(
   targets: [
       .binaryTarget(
         name: "GodToolsShared",
-        url: "https://cruglobal.jfrog.io/artifactory/swift-snapshots-local/CruGlobal/GodToolsShared/GodToolsShared-1.4.0-SNAPSHOT.26843372562.xcframework.zip",
-        checksum: "1f20671c4953154dd49c9c75313507cc1ced636aec2b4bdf6763551d0b468534"
+        url: "https://cruglobal.jfrog.io/artifactory/swift-snapshots-local/CruGlobal/GodToolsShared/GodToolsShared-1.4.0-SNAPSHOT.27145826353.xcframework.zip",
+        checksum: "02f06f408186a875c1a77e734e9aab53a25145340c680fefb2b8970f1c39307b"
       )
   ]
 )
